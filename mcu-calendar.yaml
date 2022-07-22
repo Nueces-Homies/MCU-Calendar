@@ -1,0 +1,121 @@
+- name: Moon Knight
+  date: March 30, 2022
+  type: show
+
+- name: Doctor Strange in the Multiverse of Madness
+  date: May 6, 2022
+  type: movie
+
+- name: "Thor: Love and Thunder"
+  date: July 8, 2022
+  type: movie
+
+- name: Ms. Marvel
+  date: June 8, 2022
+  type: show
+
+- name: "Black Panther: Wakanda Forever"
+  date: November 11, 2022
+  type: movie
+
+- name: Guardians of the Galaxy Holiday Special
+  date: Holiday 2022
+  type: show
+
+- name: "She-Hulk: Attorney at Law"
+  date: August 17, 2022
+  type: show
+
+- name: The Marvels
+  date: July 28, 2023
+  type: movie
+
+- name: Guardians of the Galaxy Vol. 3
+  date: May 5, 2023
+  type: movie
+
+- name: "Ant-Man and the Wasp: Quantumania"
+  date: February 17, 2023
+  type: movie
+
+- name: X-Men '97
+  date: "Fall 2023"
+  type: show
+  animated: yes
+
+- name: "Agatha: House of Harkness"
+  type: show
+
+- name: Armor Wars
+  type: show
+
+- name: Blade
+  type: movie
+
+- name: Captain America 4
+  type: movie
+  rumored: yes
+
+- name: Deadpool 3
+  type: movie
+
+- name: Echo
+  type: show
+  date: "2023"
+
+- name: Fantastic Four
+  type: movie
+
+- name: I Am Groot
+  type: show
+  animated: yes
+  date: August 10, 2022
+
+- name: Iron Heart
+  type: show
+
+- name: Loki - Season 2
+  type: show
+
+- name: Marvel Zombies
+  type: show
+  animated: yes
+  date: "2024"
+
+- name: Secret Invasion
+  type: show
+
+- name: Shang-Chi 2
+  type: movie
+  rumored: yes
+
+- name: "Spider-Man: Freshman Year"
+  type: show
+  animated: yes
+  date: "2024"
+
+- name: What If...? Season 2
+  type: show
+  animated: yes
+  date: Early 2023
+
+- name: Werewolf by Night
+  type: show
+  rumored: yes
+  date: October 2022
+
+- name: Nova
+  type: unknown
+  rumored: yes
+
+- name: Daredevil
+  type: show
+  rumored: yes
+
+- name: Thunderbolts
+  type: movie
+  rumored: yes
+
+- name: Wonder Man
+  type: show
+  rumored: yes
