@@ -43,28 +43,31 @@
   type: show
   animated: yes
 
-- name: "Agatha: House of Harkness"
+- name: "Agatha: Coven of Chaos"
   type: show
+  date: Winter 2023
 
 - name: Armor Wars
   type: show
 
 - name: Blade
   type: movie
+  date: November 3, 2023
 
-- name: Captain America 4
+- name: "Captain America: New World Order"
   type: movie
-  rumored: yes
+  date: May 3, 2024
 
 - name: Deadpool 3
   type: movie
 
 - name: Echo
   type: show
-  date: "2023"
+  date: Summer 2023
 
 - name: Fantastic Four
   type: movie
+  date: November 8, 2024
 
 - name: I Am Groot
   type: show
@@ -73,9 +76,11 @@
 
 - name: Iron Heart
   type: show
+  date: Fall 2023
 
 - name: Loki - Season 2
   type: show
+  date: Summer 2023
 
 - name: Marvel Zombies
   type: show
@@ -84,6 +89,7 @@
 
 - name: Secret Invasion
   type: show
+  date: Spring 2023
 
 - name: Shang-Chi 2
   type: movie
@@ -108,14 +114,23 @@
   type: unknown
   rumored: yes
 
-- name: Daredevil
+- name: "Daredevil: Born Again"
   type: show
-  rumored: yes
+  date: Spring 2024
 
 - name: Thunderbolts
   type: movie
-  rumored: yes
+  date: July 26, 2024
 
 - name: Wonder Man
   type: show
   rumored: yes
+  
+- name: "Avengers: Kang Dynasty"
+  type: movie
+  date: May 2, 2025
+  
+- name: "Avengers: Secret Wars"
+  type: movie
+  date: November 7, 2025
+  
