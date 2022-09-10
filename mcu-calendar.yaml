@@ -107,8 +107,7 @@
 
 - name: Werewolf by Night
   type: show
-  rumored: yes
-  date: October 2022
+  date: October 7, 2022
 
 - name: Nova
   type: unknown
