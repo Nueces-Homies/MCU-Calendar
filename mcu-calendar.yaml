@@ -52,7 +52,7 @@
 
 - name: Blade
   type: movie
-  date: November 3, 2023
+  date: September 6, 2024
 
 - name: "Captain America: New World Order"
   type: movie
@@ -60,7 +60,7 @@
 
 - name: Deadpool 3
   type: movie
-  date: September 6, 2024
+  date: November 8, 2024
 
 - name: Echo
   type: show
@@ -68,7 +68,7 @@
 
 - name: Fantastic Four
   type: movie
-  date: November 8, 2024
+  date: February 14, 2025
 
 - name: I Am Groot
   type: show
@@ -132,5 +132,5 @@
   
 - name: "Avengers: Secret Wars"
   type: movie
-  date: November 7, 2025
+  date: May 1, 2026
   
