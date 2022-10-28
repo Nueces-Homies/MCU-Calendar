@@ -134,3 +134,6 @@
   type: movie
   date: May 1, 2026
   
+- name: Vision Quest
+  type: show
+  rumored: yes
