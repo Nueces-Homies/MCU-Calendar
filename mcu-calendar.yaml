@@ -39,13 +39,12 @@
   type: movie
 
 - name: X-Men '97
-  date: "Fall 2023"
+  date: "2023"
   type: show
   animated: yes
 
 - name: "Agatha: Coven of Chaos"
   type: show
-  date: Winter 2023
 
 - name: Armor Wars
   type: movie
@@ -64,7 +63,6 @@
 
 - name: Echo
   type: show
-  date: Summer 2023
 
 - name: Fantastic Four
   type: movie
@@ -77,7 +75,6 @@
 
 - name: Ironheart
   type: show
-  date: Fall 2023
 
 - name: Loki - Season 2
   type: show
