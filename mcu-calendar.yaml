@@ -81,7 +81,7 @@
 
 - name: Loki - Season 2
   type: show
-  date: Summer 2023
+  date: "2023"
 
 - name: Marvel Zombies
   type: show
@@ -104,7 +104,7 @@
 - name: What If...? Season 2
   type: show
   animated: yes
-  date: 2023
+  date: "2023"
 
 - name: Werewolf by Night
   type: show
