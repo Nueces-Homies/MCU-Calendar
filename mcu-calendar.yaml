@@ -52,15 +52,15 @@
 
 - name: Blade
   type: movie
-  date: February 14, 2025
+  date: November 7, 2025
 
 - name: "Captain America: Brave New World"
   type: movie
-  date: August 26, 2024
+  date: February 14, 2025
 
-- name: Deadpool 3
+- name: Untitled Deadpool Movie
   type: movie
-  date: May 3, 2024
+  date: July 26, 2024
 
 - name: Echo
   type: show
@@ -123,7 +123,7 @@
 
 - name: Thunderbolts
   type: movie
-  date: December 20, 2024
+  date: July 25, 2025
 
 - name: Wonder Man
   type: show
