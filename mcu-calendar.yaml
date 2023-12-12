@@ -100,7 +100,7 @@
   type: movie
   rumored: yes
 
-- name: "Spider-Man: Freshman Year"
+- name: Your Friendly Neighborhood Spider-Man
   type: show
   animated: yes
   date: "2024"
@@ -108,7 +108,7 @@
 - name: What If...? Season 2
   type: show
   animated: yes
-  date: "Holiday 2023"
+  date: December 22, 2023
 
 - name: Werewolf by Night
   type: show
@@ -143,3 +143,8 @@
 
 - name: Spider-Man 4
   type: movie
+
+- name: Eyes of Wakanda
+  type: show
+  animated: yes
+  date: "2024"
