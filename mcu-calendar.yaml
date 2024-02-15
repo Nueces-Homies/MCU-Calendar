@@ -39,7 +39,7 @@
   type: movie
 
 - name: X-Men '97
-  date: Early 2024
+  date: March 20, 2024
   type: show
   animated: yes
 
@@ -56,7 +56,7 @@
 
 - name: "Captain America: Brave New World"
   type: movie
-  date: February 14, 2025
+  date: May 2, 2025
 
 - name: "Deadpool & Wolverine"
   type: movie
@@ -68,7 +68,7 @@
 
 - name: Fantastic Four
   type: movie
-  date: May 2, 2025
+  date: July 25, 2025
 
 - name: I Am Groot
   type: show
