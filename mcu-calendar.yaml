@@ -52,7 +52,6 @@
 
 - name: Blade
   type: movie
-  date: November 7, 2025
 
 - name: "Captain America: Brave New World"
   type: movie
@@ -166,4 +165,17 @@
 - name: Untitled Marvel film
   type: movie
   date: November 5, 2027
+  
+- name: Untitled Marvel film
+  type: movie
+  date: February 18, 2028
+  
+- name: Untitled Marvel film
+  type: movie
+  date: May 5, 2028
+  
+- name: Untitled Marvel film
+  type: movie
+  date: November 10, 2028
+  
 
