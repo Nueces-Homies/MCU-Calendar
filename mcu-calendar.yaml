@@ -90,7 +90,7 @@
 - name: Marvel Zombies
   type: show
   animated: yes
-  date: "2024"
+  
 
 - name: Secret Invasion
   type: show
@@ -103,7 +103,6 @@
 - name: Your Friendly Neighborhood Spider-Man
   type: show
   animated: yes
-  date: "2024"
 
 - name: What If...? Season 2
   type: show
@@ -120,7 +119,7 @@
 
 - name: "Daredevil: Born Again"
   type: show
-  date: March 2025
+  date: March 4, 2025
 
 - name: "Thunderbolts*"
   type: movie
@@ -148,7 +147,6 @@
 - name: Eyes of Wakanda
   type: show
   animated: yes
-  date: "2024"
 
 - name: Untitled Marvel film
   type: movie
