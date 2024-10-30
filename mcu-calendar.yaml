@@ -81,7 +81,7 @@
 
 - name: Ironheart
   type: show
-  date: "2025"
+  date: June 24, 2025
 
 - name: Loki - Season 2
   type: show
@@ -90,8 +90,8 @@
 - name: Marvel Zombies
   type: show
   animated: yes
+  date: October 2025
   
-
 - name: Secret Invasion
   type: show
   date: June 21, 2023
@@ -103,6 +103,7 @@
 - name: Your Friendly Neighborhood Spider-Man
   type: show
   animated: yes
+  date: January 25, 2025
 
 - name: What If...? Season 2
   type: show
@@ -127,7 +128,7 @@
 
 - name: Wonder Man
   type: show
-  rumored: yes
+  date: December 2025
   
 - name: "Avengers: Doomsday"
   type: movie
@@ -148,6 +149,7 @@
 - name: Eyes of Wakanda
   type: show
   animated: yes
+  date: August 6, 2025
 
 - name: Untitled Marvel film
   type: movie
@@ -176,5 +178,10 @@
 - name: Untitled Marvel film
   type: movie
   date: November 10, 2028
+
+- name: What If...? Season 3
+  type: show
+  animated: yes
+  date: December 22, 2024
   
 
